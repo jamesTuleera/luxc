@@ -108,26 +108,7 @@
               </div>
             </div>
           </div>
-{{--
-          <div class="carousel-item" style="background-image: url({{ asset('home_assets/assets/img/hero-carousel/4.jpg') }})">
-            <div class="carousel-container">
-              <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
-                <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
-              </div>
-            </div>
-          </div>
 
-          <div class="carousel-item" style="background-image: url({{ asset('home_assets/assets/img/hero-carousel/5.jpg') }})">
-            <div class="carousel-container">
-              <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
-              </div>
-            </div>
-          </div> --}}
 
         </div>
 
@@ -220,6 +201,8 @@
             </div>
           </div>
 
+          <div class="col-md-2"></div>
+
 
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
             <div class="about-col">
@@ -300,6 +283,8 @@
                 </p>
               </div>
             </div>
+
+            <div class="col-md-2"></div>
 
 
             <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">

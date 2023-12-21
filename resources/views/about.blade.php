@@ -9,7 +9,7 @@
                 <div class="d-flex justify-content-between align-items-center">
                     <h2>About</h2>
                     <ol>
-                        <li><a href="{{ route('home') }}">Home</a></li>
+                        <li><a href="{{ route('welcome') }}">Home</a></li>
                         <li><a href="">About</a></li>
                     </ol>
                 </div>

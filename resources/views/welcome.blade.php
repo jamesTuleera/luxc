@@ -45,11 +45,11 @@
         <div class="col-xl-11 d-flex align-items-center justify-content-between">
           {{-- <h1 class="logo"><a href="index.html">BizPage</a></h1> --}}
           <!-- Uncomment below if you prefer to use an image logo -->
-     <a href="{{ route('home') }}" class="logo"><img src="{{ asset('home_assets/assets/img/logo.jpeg') }}" alt="" class="img-fluid"></a>
+     <a href="{{ route('welcome') }}" class="logo"><img src="{{ asset('home_assets/assets/img/logo.jpeg') }}" alt="" class="img-fluid"></a>
 
      <nav id="navbar" class="navbar">
         <ul>
-            <li><a class="nav-link scrollto active" href="{{ route('home') }}">Home</a></li>
+            <li><a class="nav-link scrollto active" href="{{ route('welcome') }}">Home</a></li>
             <li><a class="nav-link scrollto" href="{{ route('about') }}">About</a></li>
             <li class="dropdown"><a href="#"><span>Membership</span> <i
                         class="bi bi-chevron-down"></i></a>
@@ -921,7 +921,7 @@
                     <div class="col-lg-4 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('home') }}">Home</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="{{ route('welcome') }}">Home</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('about') }}">About us</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('services') }}">Services</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('contact') }}">Contact us</a>

@@ -98,6 +98,7 @@
             </div>
           </div>
 
+          <div class="col-md-2"></div>
 
           <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
             <div class="about-col">
@@ -178,7 +179,7 @@
                 </p>
               </div>
             </div>
-
+            <div class="col-md-2"></div>
 
             <div class="col-md-4" data-aos="fade-up" data-aos-delay="300">
               <div class="about-col">
